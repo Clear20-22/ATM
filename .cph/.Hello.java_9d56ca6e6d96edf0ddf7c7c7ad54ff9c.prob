@@ -1,0 +1,1 @@
+{"name":"Local: Hello","url":"g:\\C++\\Java_Code\\Hello.java","tests":[{"id":1732123660631,"input":"10\nP 2\nP 5\nB 8\nP 14\nB 5\nB 9\nB 3\nP 2\nB 1\nB 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\Java_Code\\Hello.java","group":"local","local":true}
